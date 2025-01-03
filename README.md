@@ -32,6 +32,25 @@ Technical details
          Steam Plugin: Ensures integration with Steam APIs for authentication, friend management, and other features.
          Server Browsing: Displays a list of available servers, with information about capacity, ping, and match status, to facilitate matchmaking.
 
+
+How to Run the Game STEAM
+
+    1 ° Download the Files.
+    2 ° Unzip the Files.
+    3 ° Open Steam.
+    4 ° Run the Game with the EXE Extension.
+    
+Run the game on the same screen (co-op local)
+
+    1 ° Download the Files.
+    2 ° Unzip the Files.
+    3 ° Open the executable for the first time.
+    4 ° Open the executable for the second time.
+    5 ° Make sure you have 2 screens open.
+    6 ° Record the name of the 1nd player and his color.
+    7 ° Record the name of the 2nd player and his color. 
+    8 ° Start playing when both players are registered.
+
         
 
 
