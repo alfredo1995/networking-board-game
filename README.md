@@ -32,6 +32,7 @@ Technical details
          Steam Plugin: Ensures integration with Steam APIs for authentication, friend management, and other features.
          Server Browsing: Displays a list of available servers, with information about capacity, ping, and match status, to facilitate matchmaking.
 
+<br>
 
 How to Run the Game STEAM
 
