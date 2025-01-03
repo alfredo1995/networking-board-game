@@ -3,11 +3,13 @@
 
 https://github.com/user-attachments/assets/05e10503-99c5-452d-a45b-23c3e2cf2973
 
-
+<br>
  
 Project Architecture  
 
 ![arquitetura-server-multiplayer-replicate-multicast](https://github.com/alfredo1995/multiplayer-server-replicate-multicast/assets/71193893/fd35c3f0-269d-4c0b-9d07-5dfbf45a5bde)
+
+<br>
 
 Technical details 
 
