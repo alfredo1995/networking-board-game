@@ -12,7 +12,7 @@ Project Architecture
 <br>
 
 Technical details 
-
+ 
     💡 GameMode: Defined as general game rules and behavior.
          Level: Responsible for creating the game's visual and sound scene
          PlayerControler: Responsible for the commands that the game character can understand and execute.
