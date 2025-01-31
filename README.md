@@ -36,6 +36,10 @@ Technical details
 
 <br>
 
+Game 
+
+    https://alfredo1995.itch.io/game-server-replicate
+
 How to Run the Game STEAM
 
     1 ° Download the Files.
