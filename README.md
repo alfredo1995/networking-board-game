@@ -3,7 +3,7 @@
 
 https://github.com/user-attachments/assets/05e10503-99c5-452d-a45b-23c3e2cf2973
 
-<br>
+<br> 
  
 Project Architecture  
 
